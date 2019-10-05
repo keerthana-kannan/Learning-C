@@ -1,0 +1,5 @@
+cd /cygdrive/c
+cd cygwin64/home/homework
+gcc -o hello hello.c
+./hello.exe
+
